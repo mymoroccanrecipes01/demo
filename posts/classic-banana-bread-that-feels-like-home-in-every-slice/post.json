@@ -23,15 +23,15 @@
     "cook_time": 60,
     "servings": 8,
     "ingredients": [
-        "1 3\/4 cups (220g) all-purpose flour, sifted",
+        "1 3/4 cups (220g) all-purpose flour, sifted",
         "1 teaspoon baking soda",
-        "1\/2 teaspoon salt",
-        "1\/2 cup (115g) unsalted butter, softened",
+        "1/2 teaspoon salt",
+        "1/2 cup (115g) unsalted butter, softened",
         "1 cup (200g) packed brown sugar",
         "2 large eggs, room temperature",
         "1 teaspoon vanilla extract",
-        "3 ripe bananas, mashed (about 1 1\/2 cups)",
-        "1\/4 cup (60ml) buttermilk or plain yogurt"
+        "3 ripe bananas, mashed (about 1 1/2 cups)",
+        "1/4 cup (60ml) buttermilk or plain yogurt"
     ],
     "yield": "One 9x5 inch loaf, about 8 servings",
     "introduction": "I’ve been making banana bread for years, but this recipe is the one I keep coming back to. The first time I tried baking banana bread, I overmixed the batter and ended up with a tough loaf — lesson learned! Since then, I’ve tweaked this recipe to keep it moist and tender every time. Using brown sugar instead of white adds a subtle caramel flavor that makes it feel extra special. Also, I always add a bit of buttermilk to keep the crumb soft and help balance the sweetness. The bananas need to be really ripe — the riper, the better! When you slice into it, the bread is golden with a tender crumb and just the right amount of sweetness. It’s perfect for breakfast, a snack, or even a simple dessert with a smear of butter. I love how it fills the kitchen with a warm, inviting aroma. Honestly, it’s one of those recipes that feels like a hug from the inside.",
@@ -93,7 +93,7 @@
     ],
     "why_this_recipe_works": {
         "section": "Understanding Why This Banana Bread Recipe Succeeds",
-        "content": "<p>The magic behind this banana bread lies in balancing moisture, sweetness, and structure. Ripe bananas provide natural sugars and moisture, which keep the crumb tender and flavorful. The addition of brown sugar adds a subtle caramel note and helps retain moisture better than white sugar alone.<\/p><p>Using baking soda as the leavening agent reacts with the acidity from the bananas and buttermilk, creating carbon dioxide bubbles that give the bread a light rise without becoming cakey. The buttermilk also tenderizes the crumb through its acidity and adds a slight tang that complements the sweetness.<\/p><p>Creaming the butter and sugar incorporates air into the batter, which is essential for a soft texture. Alternating the dry ingredients with the wet prevents overmixing, which can develop gluten and make the bread tough. Gentle folding ensures the bread stays moist and tender.<\/p><p>Finally, the baking temperature and time are carefully chosen to cook the loaf evenly without drying it out. Tent the bread if it browns too quickly to keep the crust soft. Cooling in the pan helps the bread set, making slicing easier and preserving its shape.<\/p>",
+        "content": "<p>The magic behind this banana bread lies in balancing moisture, sweetness, and structure. Ripe bananas provide natural sugars and moisture, which keep the crumb tender and flavorful. The addition of brown sugar adds a subtle caramel note and helps retain moisture better than white sugar alone.</p><p>Using baking soda as the leavening agent reacts with the acidity from the bananas and buttermilk, creating carbon dioxide bubbles that give the bread a light rise without becoming cakey. The buttermilk also tenderizes the crumb through its acidity and adds a slight tang that complements the sweetness.</p><p>Creaming the butter and sugar incorporates air into the batter, which is essential for a soft texture. Alternating the dry ingredients with the wet prevents overmixing, which can develop gluten and make the bread tough. Gentle folding ensures the bread stays moist and tender.</p><p>Finally, the baking temperature and time are carefully chosen to cook the loaf evenly without drying it out. Tent the bread if it browns too quickly to keep the crust soft. Cooling in the pan helps the bread set, making slicing easier and preserving its shape.</p>",
         "ingredient_notes": {
             "all-purpose flour": "Look for a good quality, unbleached all-purpose flour for the best texture. Bleached flours can sometimes give a slightly cakey or chalky crumb. The protein content in AP flour is moderate, perfect for banana bread, providing enough structure without making it tough. Sifting the flour before use helps aerate it and remove lumps, which leads to a lighter loaf.",
             "baking soda": "Baking soda is critical because it reacts with the acidic elements like bananas and buttermilk to create lift. Using expired or insufficient baking soda results in a dense loaf. Always measure carefully and avoid substituting with baking powder in this recipe, as the flavor and rise will be affected.",
@@ -173,7 +173,7 @@
         {
             "name": "Gluten-Free Banana Bread",
             "description": "Substitute the all-purpose flour with a 1:1 gluten-free baking flour blend. This keeps the texture moist and tender without gluten.",
-            "technical_note": "Check your blend for xanthan gum content; add 1\/4 tsp if missing to help with structure."
+            "technical_note": "Check your blend for xanthan gum content; add 1/4 tsp if missing to help with structure."
         },
         {
             "name": "Vegan Banana Bread",
@@ -182,7 +182,7 @@
         },
         {
             "name": "Spiced Banana Bread",
-            "description": "Add 1 tsp cinnamon and 1\/4 tsp nutmeg to the dry ingredients for a warm, cozy flavor. Perfect for fall or holiday baking.",
+            "description": "Add 1 tsp cinnamon and 1/4 tsp nutmeg to the dry ingredients for a warm, cozy flavor. Perfect for fall or holiday baking.",
             "technical_note": "Spices blend well with banana and brown sugar; no change in baking time."
         }
     ],
@@ -209,7 +209,7 @@
         },
         {
             "question": "What if I don’t have buttermilk?",
-            "answer": "You can make a quick buttermilk substitute by adding 1 tablespoon of lemon juice or white vinegar to 1\/4 cup of milk. Let it sit for 5 minutes before using. This provides the acidity needed to react with baking soda."
+            "answer": "You can make a quick buttermilk substitute by adding 1 tablespoon of lemon juice or white vinegar to 1/4 cup of milk. Let it sit for 5 minutes before using. This provides the acidity needed to react with baking soda."
         },
         {
             "question": "My banana bread turned out dense and heavy. What went wrong?",
@@ -273,33 +273,29 @@
     "images": [
         {
             "fileName": "classic-banana-bread-that-feels-like-home-in-every-slice_image_1.webp",
-            "filePath": "posts\/classic-banana-bread-that-feels-like-home-in-every-slice\/images\/classic-banana-bread-that-feels-like-home-in-every-slice_image_1.webp",
-            "relativePath": "classic-banana-bread-that-feels-like-home-in-every-slice\/images\/classic-banana-bread-that-feels-like-home-in-every-slice_image_1.webp",
-            "originalUrl": "http:\/\/79.143.187.192\/sites-moad\/demo\/tmpIMG\/image_1.webp",
+            "filePath": "posts/classic-banana-bread-that-feels-like-home-in-every-slice/images/classic-banana-bread-that-feels-like-home-in-every-slice_image_1.webp",
+            "relativePath": "classic-banana-bread-that-feels-like-home-in-every-slice/images/classic-banana-bread-that-feels-like-home-in-every-slice_image_1.webp",
+            "originalUrl": "http://79.143.187.192/sites-moad/demo/tmpIMG/image_1.webp",
             "order": 1
         },
         {
             "fileName": "classic-banana-bread-that-feels-like-home-in-every-slice_image_2.webp",
-            "filePath": "posts\/classic-banana-bread-that-feels-like-home-in-every-slice\/images\/classic-banana-bread-that-feels-like-home-in-every-slice_image_2.webp",
-            "relativePath": "classic-banana-bread-that-feels-like-home-in-every-slice\/images\/classic-banana-bread-that-feels-like-home-in-every-slice_image_2.webp",
-            "originalUrl": "http:\/\/79.143.187.192\/sites-moad\/demo\/tmpIMG\/image_2.webp",
+            "filePath": "posts/classic-banana-bread-that-feels-like-home-in-every-slice/images/classic-banana-bread-that-feels-like-home-in-every-slice_image_2.webp",
+            "relativePath": "classic-banana-bread-that-feels-like-home-in-every-slice/images/classic-banana-bread-that-feels-like-home-in-every-slice_image_2.webp",
+            "originalUrl": "http://79.143.187.192/sites-moad/demo/tmpIMG/image_2.webp",
             "order": 2
         },
         {
             "fileName": "classic-banana-bread-that-feels-like-home-in-every-slice_image_3.webp",
-            "filePath": "posts\/classic-banana-bread-that-feels-like-home-in-every-slice\/images\/classic-banana-bread-that-feels-like-home-in-every-slice_image_3.webp",
-            "relativePath": "classic-banana-bread-that-feels-like-home-in-every-slice\/images\/classic-banana-bread-that-feels-like-home-in-every-slice_image_3.webp",
-            "originalUrl": "http:\/\/79.143.187.192\/sites-moad\/demo\/tmpIMG\/image_3.webp",
+            "filePath": "posts/classic-banana-bread-that-feels-like-home-in-every-slice/images/classic-banana-bread-that-feels-like-home-in-every-slice_image_3.webp",
+            "relativePath": "classic-banana-bread-that-feels-like-home-in-every-slice/images/classic-banana-bread-that-feels-like-home-in-every-slice_image_3.webp",
+            "originalUrl": "http://79.143.187.192/sites-moad/demo/tmpIMG/image_3.webp",
             "order": 3
-        },
-        {
-            "order": 4,
-            "type": "template"
         }
     ],
     "image": "classic-banana-bread-that-feels-like-home-in-every-slice_image_1.webp",
-    "image_path": "posts\/classic-banana-bread-that-feels-like-home-in-every-slice\/images\/classic-banana-bread-that-feels-like-home-in-every-slice_image_1.webp",
-    "image_dir": "classic-banana-bread-that-feels-like-home-in-every-slice\/images",
+    "image_path": "posts/classic-banana-bread-that-feels-like-home-in-every-slice/images/classic-banana-bread-that-feels-like-home-in-every-slice_image_1.webp",
+    "image_dir": "classic-banana-bread-that-feels-like-home-in-every-slice/images",
     "generated_from_text": true,
     "has_rich_structure": true,
     "createdAt": "2026-04-27T14:25:28+00:00",
