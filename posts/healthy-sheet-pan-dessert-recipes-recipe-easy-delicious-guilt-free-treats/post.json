@@ -300,6 +300,50 @@
             "originalUrl": "openai-generated",
             "order": 3,
             "type": "main"
+        },
+        {
+            "fileName": "healthy-sheet-pan-dessert-recipes-recipe-easy-delicious-guilt-free-treats_demo_image_5.webp",
+            "filePath": "posts/healthy-sheet-pan-dessert-recipes-recipe-easy-delicious-guilt-free-treats/images/healthy-sheet-pan-dessert-recipes-recipe-easy-delicious-guilt-free-treats_demo_image_5.webp",
+            "relativePath": "healthy-sheet-pan-dessert-recipes-recipe-easy-delicious-guilt-free-treats/images/healthy-sheet-pan-dessert-recipes-recipe-easy-delicious-guilt-free-treats_demo_image_5.webp",
+            "originalUrl": "http://79.143.187.192/sites-moad/demo/posts/healthy-sheet-pan-dessert-recipes-recipe-easy-delicious-guilt-free-treats/images/healthy-sheet-pan-dessert-recipes-recipe-easy-delicious-guilt-free-treats_demo_image_5.webp",
+            "type": "template"
+        },
+        {
+            "fileName": "healthy-sheet-pan-dessert-recipes-recipe-easy-delicious-guilt-free-treats_demo_image_4.webp",
+            "filePath": "posts/healthy-sheet-pan-dessert-recipes-recipe-easy-delicious-guilt-free-treats/images/healthy-sheet-pan-dessert-recipes-recipe-easy-delicious-guilt-free-treats_demo_image_4.webp",
+            "relativePath": "healthy-sheet-pan-dessert-recipes-recipe-easy-delicious-guilt-free-treats/images/healthy-sheet-pan-dessert-recipes-recipe-easy-delicious-guilt-free-treats_demo_image_4.webp",
+            "originalUrl": "http://79.143.187.192/sites-moad/demo/posts/healthy-sheet-pan-dessert-recipes-recipe-easy-delicious-guilt-free-treats/images/healthy-sheet-pan-dessert-recipes-recipe-easy-delicious-guilt-free-treats_demo_image_4.webp",
+            "type": "template"
+        },
+        {
+            "fileName": "healthy-sheet-pan-dessert-recipes-recipe-easy-delicious-guilt-free-treats_demo_image_7.webp",
+            "filePath": "posts/healthy-sheet-pan-dessert-recipes-recipe-easy-delicious-guilt-free-treats/images/healthy-sheet-pan-dessert-recipes-recipe-easy-delicious-guilt-free-treats_demo_image_7.webp",
+            "relativePath": "healthy-sheet-pan-dessert-recipes-recipe-easy-delicious-guilt-free-treats/images/healthy-sheet-pan-dessert-recipes-recipe-easy-delicious-guilt-free-treats_demo_image_7.webp",
+            "originalUrl": "http://79.143.187.192/sites-moad/demo/posts/healthy-sheet-pan-dessert-recipes-recipe-easy-delicious-guilt-free-treats/images/healthy-sheet-pan-dessert-recipes-recipe-easy-delicious-guilt-free-treats_demo_image_7.webp",
+            "type": "template"
+        },
+        {
+            "fileName": "healthy-sheet-pan-dessert-recipes-recipe-easy-delicious-guilt-free-treats_demo_image_8.webp",
+            "filePath": "posts/healthy-sheet-pan-dessert-recipes-recipe-easy-delicious-guilt-free-treats/images/healthy-sheet-pan-dessert-recipes-recipe-easy-delicious-guilt-free-treats_demo_image_8.webp",
+            "relativePath": "healthy-sheet-pan-dessert-recipes-recipe-easy-delicious-guilt-free-treats/images/healthy-sheet-pan-dessert-recipes-recipe-easy-delicious-guilt-free-treats_demo_image_8.webp",
+            "originalUrl": "http://79.143.187.192/sites-moad/demo/posts/healthy-sheet-pan-dessert-recipes-recipe-easy-delicious-guilt-free-treats/images/healthy-sheet-pan-dessert-recipes-recipe-easy-delicious-guilt-free-treats_demo_image_8.webp",
+            "type": "recipe_card",
+            "no_link": true
+        },
+        {
+            "fileName": "healthy-sheet-pan-dessert-recipes-recipe-easy-delicious-guilt-free-treats_demo_image_9.webp",
+            "filePath": "posts/healthy-sheet-pan-dessert-recipes-recipe-easy-delicious-guilt-free-treats/images/healthy-sheet-pan-dessert-recipes-recipe-easy-delicious-guilt-free-treats_demo_image_9.webp",
+            "relativePath": "healthy-sheet-pan-dessert-recipes-recipe-easy-delicious-guilt-free-treats/images/healthy-sheet-pan-dessert-recipes-recipe-easy-delicious-guilt-free-treats_demo_image_9.webp",
+            "originalUrl": "http://79.143.187.192/sites-moad/demo/posts/healthy-sheet-pan-dessert-recipes-recipe-easy-delicious-guilt-free-treats/images/healthy-sheet-pan-dessert-recipes-recipe-easy-delicious-guilt-free-treats_demo_image_9.webp",
+            "type": "overlay_list",
+            "no_link": true
+        },
+        {
+            "fileName": "healthy-sheet-pan-dessert-recipes-recipe-easy-delicious-guilt-free-treats_demo_image_6.webp",
+            "filePath": "posts/healthy-sheet-pan-dessert-recipes-recipe-easy-delicious-guilt-free-treats/images/healthy-sheet-pan-dessert-recipes-recipe-easy-delicious-guilt-free-treats_demo_image_6.webp",
+            "relativePath": "healthy-sheet-pan-dessert-recipes-recipe-easy-delicious-guilt-free-treats/images/healthy-sheet-pan-dessert-recipes-recipe-easy-delicious-guilt-free-treats_demo_image_6.webp",
+            "originalUrl": "http://79.143.187.192/sites-moad/demo/posts/healthy-sheet-pan-dessert-recipes-recipe-easy-delicious-guilt-free-treats/images/healthy-sheet-pan-dessert-recipes-recipe-easy-delicious-guilt-free-treats_demo_image_6.webp",
+            "type": "template"
         }
     ],
     "image": "healthy-sheet-pan-dessert-recipes-recipe-easy-delicious-guilt-free-treats_pinrecipes_image_1.png",
@@ -307,6 +351,6 @@
     "image_dir": "healthy-sheet-pan-dessert-recipes-recipe-easy-delicious-guilt-free-treats/images",
     "generated_from_text": true,
     "has_rich_structure": true,
-    "createdAt": "2026-04-28T12:14:06+00:00",
-    "updatedAt": "2026-04-28T12:14:06+00:00"
+    "createdAt": "2026-04-28T12:31:23+00:00",
+    "updatedAt": "2026-04-28T12:31:23+00:00"
 }
