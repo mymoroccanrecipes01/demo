@@ -1,0 +1,485 @@
+{
+    "title": "Sheet Pan Chicken Recipes Healthy Recipe That’s Perfect for Busy Nights",
+    "promptIMG": "Food photography: Sheet Pan Chicken Recipes Healthy Recipe, appetizing presentation, natural lighting, kitchen setting, documentary style, realistic colors --ar 4:3 --quality 2",
+    "description": "This sheet pan chicken recipe is a simple, healthy dinner that comes together fast. Tossed with fresh veggies and herbs, it’s perfect for weeknights when you want something wholesome without a fuss.",
+    "hashtags": "#sheetpanchicken #healthyrecipes #easyweeknightdinner",
+    "board_name": "Healthy Chicken Dinner Ideas",
+    "pin_variations": [
+        {
+            "title": "Quick & Healthy Sheet Pan Chicken Dinner You’ll Love Tonight",
+            "description": "Looking for a fuss-free dinner? This sheet pan chicken recipe is loaded with fresh veggies and juicy chicken, all baked on one tray. Save this recipe and try it today for a wholesome meal! 🍗🥦 #easyrecipes #healthydinner #sheetpanmeals"
+        },
+        {
+            "title": "Healthy Sheet Pan Chicken with Veggies - Ready in 45 Minutes!",
+            "description": "Craving a nutritious meal that’s easy to prep? This sheet pan chicken recipe has you covered with minimal cleanup and maximum flavor. Discover the secret to juicy chicken and crisp veggies! 🍽️🌿 #healthymeals #chickendinner #sheetpanrecipes"
+        },
+        {
+            "title": "One-Pan Healthy Chicken Dinner That’s Perfect for Busy Families",
+            "description": "Dinner doesn’t have to be complicated. This healthy sheet pan chicken recipe combines protein and veggies on one tray for a quick, delicious meal. Try it tonight and enjoy easy cleanup! 🍴💚 #familydinner #healthyrecipes #sheetpanchicken"
+        },
+        {
+            "title": "Easy Sheet Pan Chicken Recipe for a Healthy Weeknight Meal",
+            "description": "Save time with this easy sheet pan chicken recipe that’s packed with flavor and nutrition. Perfect for busy nights when you want something satisfying but simple. Give it a go and see why it’s a favorite! 🍗🥕 #easyweeknightmeals #healthyrecipes #sheetpan"
+        }
+    ],
+    "difficulty": "Easy",
+    "prep_time": 15,
+    "cook_time": 30,
+    "servings": 4,
+    "ingredients": [
+        "4 boneless skinless chicken breasts",
+        "2 cups broccoli florets, fresh",
+        "1 red bell pepper, sliced",
+        "1 yellow bell pepper, sliced",
+        "1 small red onion, cut into wedges",
+        "3 tablespoons olive oil",
+        "2 teaspoons garlic powder",
+        "1 teaspoon smoked paprika",
+        "Salt and freshly ground black pepper, to taste",
+        "1 lemon, sliced",
+        "Fresh parsley, chopped (for garnish)"
+    ],
+    "yield": "4 servings",
+    "introduction": "I first stumbled upon sheet pan chicken recipes when I was juggling work and family dinner time. Honestly, I was skeptical at first—could one pan really deliver a flavorful, healthy meal without turning into a soggy mess? But after a few tries, I nailed it. What makes this recipe stand out is the balance of spices and the timing of adding vegetables so everything cooks perfectly. I love using fresh lemon slices on top; they add a bright zing that lifts the whole dish. This recipe is my go-to when I want to serve a wholesome dinner that’s both satisfying and easy to clean up. The chicken comes out juicy with a slightly crispy edge, and the veggies are tender but still have a bit of crunch. It’s like getting a restaurant-quality meal with minimal effort. Plus, it’s flexible—you can swap in your favorite veggies or adjust the seasoning to suit your mood. I think you’ll find it’s a lifesaver for busy weeknights or whenever you want a fuss-free, nutritious dinner.",
+    "instructions": [
+        {
+            "step": 1,
+            "instruction": "Preheat your oven to 425°F (220°C). This higher temperature helps the chicken skin get crispy and the veggies to roast nicely without steaming. Line a large sheet pan with parchment paper or lightly grease it to prevent sticking. This step is crucial because a hot oven ensures the Maillard reaction occurs, giving the chicken a beautiful golden crust and deep flavor. Avoid overcrowding the pan since that traps steam and prevents browning.",
+            "timing": "10 minutes",
+            "doneness_cue": "Oven fully preheated and pan prepared with even spacing for ingredients"
+        },
+        {
+            "step": 2,
+            "instruction": "In a large bowl, toss the chicken breasts with 2 tablespoons of olive oil, garlic powder, smoked paprika, salt, and pepper. Make sure each piece is evenly coated. This seasoning blend adds smoky warmth and depth without overpowering the natural chicken flavor. The oil helps the spices stick and promotes browning. If you rush this step or don’t coat the chicken well, the flavor won’t be as vibrant and the texture might be less appealing.",
+            "timing": "5 minutes",
+            "doneness_cue": "Chicken pieces evenly seasoned and lightly glossy from the oil"
+        },
+        {
+            "step": 3,
+            "instruction": "Place the seasoned chicken breasts on one side of the sheet pan, spacing them apart. On the other side, toss the broccoli florets, sliced bell peppers, and red onion with the remaining 1 tablespoon olive oil, a pinch of salt, and pepper. Distributing the veggies separately prevents overcrowding and allows both chicken and vegetables to roast evenly. The oil on the veggies helps them caramelize, bringing out their natural sweetness.",
+            "timing": "5 minutes",
+            "doneness_cue": "Chicken and veggies arranged separately with a light coating of oil"
+        },
+        {
+            "step": 4,
+            "instruction": "Lay lemon slices over the chicken breasts. As the chicken bakes, the lemon infuses it with a subtle citrus aroma and flavor, balancing the richness of the meat. This simple addition brightens the dish and adds a fresh note. Don’t skip this step if you want that extra layer of flavor.",
+            "timing": "2 minutes",
+            "doneness_cue": "Lemon slices evenly placed atop each chicken breast"
+        },
+        {
+            "step": 5,
+            "instruction": "Place the sheet pan in the preheated oven and roast for about 25-30 minutes. The chicken should reach an internal temperature of 165°F (74°C) for safe eating. The veggies will become tender and slightly caramelized. Resist the urge to open the oven frequently; this maintains the heat and ensures even cooking. If you rush the cooking or bake at a lower temperature, the chicken might dry out and the veggies won’t develop that roasted flavor.",
+            "timing": "25-30 minutes",
+            "doneness_cue": "Chicken juices run clear and vegetables have golden edges"
+        },
+        {
+            "step": 6,
+            "instruction": "Once cooked, remove the sheet pan from the oven and let the chicken rest for 5 minutes. Resting allows the juices to redistribute, keeping the meat moist and tender. Cutting into the chicken immediately can cause the juices to run out, resulting in dryness. Meanwhile, the veggies will continue to soften slightly from residual heat.",
+            "timing": "5 minutes",
+            "doneness_cue": "Chicken feels firm but springy and juices settle inside"
+        },
+        {
+            "step": 7,
+            "instruction": "Transfer the chicken and vegetables to serving plates. Sprinkle freshly chopped parsley over the top for a pop of color and fresh herbal flavor. This final touch brightens the dish visually and taste-wise. It’s also a nice contrast to the warm roasted flavors.",
+            "timing": "3 minutes",
+            "doneness_cue": "Parsley evenly scattered and dish looks vibrant and inviting"
+        },
+        {
+            "step": 8,
+            "instruction": "Serve immediately with your choice of side if desired, such as quinoa or a light salad. This recipe stands well on its own but pairs beautifully with grains or leafy greens for a balanced meal. Enjoy the juicy chicken and perfectly roasted veggies while warm.",
+            "timing": "2 minutes",
+            "doneness_cue": "Meal plated and ready to eat"
+        },
+        {
+            "step": 9,
+            "instruction": "Clean the sheet pan promptly after it cools. Soaking it briefly helps remove any stuck-on bits without scrubbing hard. Keeping your sheet pan in good condition ensures even cooking in future recipes and prolongs its lifespan.",
+            "timing": "5 minutes",
+            "doneness_cue": "Sheet pan clean and dry"
+        }
+    ],
+    "why_this_recipe_works": {
+        "section": "Understanding Why This Sheet Pan Chicken Recipe Succeeds",
+        "content": "<p>This recipe works because it balances heat, timing, and ingredient preparation to maximize flavor and texture. Roasting at a high temperature (425°F) triggers the Maillard reaction on the chicken’s surface, creating a crispy, flavorful crust that seals in juices. Without this, chicken can come out bland and dry.<\/p><p>Separating the chicken and vegetables on the pan prevents steaming, which can make veggies mushy and chicken soggy. The olive oil coats the ingredients, facilitating caramelization and adding richness. The spices—especially smoked paprika—add depth and warmth without overpowering the natural flavors.<\/p><p>The lemon slices not only add a fresh citrus aroma but also subtly tenderize the chicken during roasting. Resting the chicken after baking is essential for juicy results, as it allows the muscle fibers to relax and reabsorb juices. Finally, garnishing with fresh parsley brightens the dish both visually and flavor-wise, adding a herbaceous note that complements the roasted elements.<\/p><p>Overall, the recipe’s success lies in thoughtful ingredient pairing, proper heat management, and simple but effective seasoning techniques that elevate a straightforward sheet pan meal into something special.<\/p>",
+        "ingredient_notes": {
+            "chicken breasts": "Look for fresh, boneless skinless chicken breasts that are plump and pink with no odor. These cook evenly and absorb seasoning well. Avoid frozen or previously frozen breasts as they tend to release more water, which can prevent browning and lead to dryness. Patting them dry before seasoning helps achieve a better crust.",
+            "broccoli florets": "Fresh broccoli with firm stalks and vibrant green florets works best. Older broccoli can be woody and less flavorful. The florets roast nicely, developing a slightly nutty flavor and tender texture. Avoid overcrowding on the pan to ensure they crisp up rather than steam.",
+            "olive oil": "Extra virgin olive oil is preferred for its flavor and health benefits. It helps coat the chicken and veggies, promoting browning and preventing sticking. Using too little oil can cause uneven cooking and dryness; too much can lead to sogginess. Olive oil’s smoke point is suitable for roasting at 425°F for this recipe.",
+            "smoked paprika": "This spice adds a subtle smoky warmth that enhances the chicken without overpowering it. It’s a key flavor note that differentiates this recipe from basic roasted chicken. Using sweet or hot paprika changes the flavor profile, so stick with smoked for best results. It also contributes to the appealing color of the chicken.",
+            "lemon slices": "Fresh lemon slices add brightness and a mild acidity that cuts through the richness of roasted chicken. They also release aromatic oils during roasting, infusing the meat with subtle citrus notes. Avoid bottled lemon juice here as it won’t impart the same flavor or texture benefits."
+        }
+    },
+    "pro_tips": [
+        {
+            "tip": "Pat the chicken dry before seasoning.",
+            "reason": "Removing surface moisture is key to achieving a crispy crust. If the chicken is wet, it will steam instead of roast, resulting in a less flavorful and less appealing texture."
+        },
+        {
+            "tip": "Don’t overcrowd the sheet pan.",
+            "reason": "Giving ingredients space allows hot air to circulate and promotes even roasting and caramelization. Crowding causes steaming and soggy results."
+        },
+        {
+            "tip": "Use a meat thermometer to check doneness.",
+            "reason": "Chicken is perfectly cooked at 165°F internal temperature. This prevents undercooking or drying out from overcooking, ensuring juicy results every time."
+        },
+        {
+            "tip": "Add lemon slices on top before roasting.",
+            "reason": "The lemon infuses the chicken with fresh citrus aroma and flavor, balancing the richness and enhancing the overall taste."
+        },
+        {
+            "tip": "Rest the chicken after baking.",
+            "reason": "Resting allows juices to redistribute within the meat, making it tender and juicy instead of dry when cut immediately."
+        },
+        {
+            "tip": "Use parchment paper or lightly grease the pan.",
+            "reason": "This prevents sticking and makes cleanup easier, preserving the sheet pan’s surface and saving time."
+        },
+        {
+            "tip": "Toss vegetables with oil and seasoning separately.",
+            "reason": "This ensures even coating and flavor distribution, helping the veggies roast evenly with a delicious caramelized finish."
+        }
+    ],
+    "common_mistakes_to_avoid": [
+        {
+            "mistake": "Cooking at too low a temperature",
+            "why_it_happens": "Many assume lower heat prevents drying, but it actually causes steaming, resulting in bland, soggy chicken and veggies.",
+            "fix": "Preheat oven to 425°F and roast at this temperature to encourage browning and flavor development."
+        },
+        {
+            "mistake": "Not drying chicken before seasoning",
+            "why_it_happens": "Skipping this step is often due to rushing but leads to poor browning and a less crispy texture.",
+            "fix": "Pat chicken breasts dry with paper towels before applying oil and spices."
+        },
+        {
+            "mistake": "Overcrowding the pan",
+            "why_it_happens": "Trying to fit everything on one pan without space leads to steaming instead of roasting.",
+            "fix": "Use a large sheet pan and spread ingredients out so hot air can circulate."
+        },
+        {
+            "mistake": "Skipping resting time",
+            "why_it_happens": "Impatience to serve can cause cutting into chicken immediately, losing juices.",
+            "fix": "Let chicken rest 5 minutes after baking to lock in moisture."
+        },
+        {
+            "mistake": "Using frozen chicken without thawing",
+            "why_it_happens": "Frozen chicken releases water during cooking, preventing proper browning.",
+            "fix": "Fully thaw chicken in the fridge before seasoning and roasting."
+        }
+    ],
+    "variations": [
+        {
+            "name": "Mediterranean Style",
+            "description": "Swap bell peppers for cherry tomatoes and add kalamata olives and feta cheese after baking. Season with oregano and a splash of balsamic vinegar for a tangy twist. Expect a bright, fresh flavor with a creamy finish from the feta.",
+            "technical_note": "Add cheese and olives after roasting to avoid melting and bitterness; roasting tomatoes adds natural sweetness."
+        },
+        {
+            "name": "Spicy Cajun Sheet Pan Chicken",
+            "description": "Use Cajun seasoning instead of smoked paprika and garlic powder. Add sliced andouille sausage and corn for a Southern flair. The spice level will be higher with a smoky, savory profile.",
+            "technical_note": "Adjust spice to taste; sausage adds fat that keeps chicken moist but watch for excess grease pooling on pan."
+        },
+        {
+            "name": "Asian-Inspired Sheet Pan Chicken",
+            "description": "Marinate chicken in soy sauce, ginger, garlic, and honey before roasting. Add snap peas and sliced carrots for crunch. This variation brings a sweet-salty umami punch and vibrant colors.",
+            "technical_note": "Marinate at least 30 minutes beforehand; watch sugar content in honey to prevent burning."
+        },
+        {
+            "name": "Herb-Roasted Chicken with Root Vegetables",
+            "description": "Use rosemary, thyme, and sage with root vegetables like carrots, parsnips, and potatoes. This hearty version is perfect for cooler months with earthy flavors and a comforting aroma.",
+            "technical_note": "Root veggies require slightly longer roasting; cut them smaller to match chicken cooking time."
+        },
+        {
+            "name": "Lemon Garlic Butter Sheet Pan Chicken",
+            "description": "Brush chicken with melted garlic butter and lemon zest before roasting. Add green beans and baby potatoes tossed in the same butter mixture. The richness of butter balances the citrus and garlic beautifully.",
+            "technical_note": "Butter browns faster than oil, so watch closely to prevent burning; adding lemon zest freshens the flavor."
+        }
+    ],
+    "nutrition": {
+        "calories_per_serving": "380 kcal",
+        "protein_grams": "35g",
+        "carbohydrates_grams": "15g",
+        "fat_grams": "18g",
+        "fiber_grams": "5g",
+        "sodium_mg": "420mg",
+        "note": "Nutritional values are estimates and may vary based on specific ingredients used."
+    },
+    "storage_and_reheating": {
+        "room_temperature": "This dish can safely sit out covered at room temperature for up to 2 hours. Beyond that, bacteria growth increases, so refrigerate promptly after serving.",
+        "refrigerator": "Store leftovers in an airtight container for up to 4 days. Flavors may deepen but veggies might soften. Reheat gently to avoid drying out the chicken.",
+        "freezer": "Freeze cooked chicken and vegetables in freezer-safe containers for up to 3 months. Wrap tightly to prevent freezer burn. Thaw overnight in the fridge before reheating.",
+        "reheating": "Reheat in a 350°F oven for 15-20 minutes or microwave covered with a splash of water to maintain moisture. Avoid high heat to prevent drying out the meat.",
+        "make_ahead_strategy": "You can prep and season the chicken and veggies 1 day ahead, storing them covered in the fridge. Assemble and roast just before serving for fresh, vibrant results."
+    },
+    "faq": [
+        {
+            "question": "Can I use bone-in chicken thighs instead of breasts?",
+            "answer": "Yes! Bone-in thighs add flavor and stay juicy but require longer cooking, about 35-40 minutes. Adjust oven temperature or check with a meat thermometer to ensure doneness."
+        },
+        {
+            "question": "What if I don’t have smoked paprika?",
+            "answer": "You can substitute with regular paprika or a mix of paprika and a small pinch of cayenne for heat. The smoky flavor won’t be as pronounced but it will still taste great."
+        },
+        {
+            "question": "Can I add other vegetables?",
+            "answer": "Absolutely! Zucchini, asparagus, or Brussels sprouts work well. Just cut them to similar sizes and consider their cooking times—add delicate veggies later if needed."
+        },
+        {
+            "question": "How do I prevent the chicken from drying out?",
+            "answer": "Patting the chicken dry, seasoning well, roasting at high heat, and resting it after cooking all help retain moisture. Using a meat thermometer ensures you don’t overcook it."
+        },
+        {
+            "question": "Is olive oil the best choice for roasting?",
+            "answer": "Extra virgin olive oil adds flavor and has a suitable smoke point for this recipe. You can use avocado or grapeseed oil if preferred, but avoid butter at high heat as it burns easily."
+        },
+        {
+            "question": "Can I make this gluten-free?",
+            "answer": "Yes, this recipe is naturally gluten-free as long as your spices and oils are gluten-free. Just double-check any pre-mixed seasonings."
+        },
+        {
+            "question": "How do I store leftovers to maintain crispiness?",
+            "answer": "Store leftovers uncovered in the fridge for a short time before reheating to help retain some crispness. Reheating in the oven rather than microwave also helps."
+        },
+        {
+            "question": "Can I double the recipe for more servings?",
+            "answer": "Yes, but use two sheet pans to avoid overcrowding. Cooking times remain similar but check doneness carefully as ovens can vary."
+        }
+    ],
+    "conclusion": "I hope you enjoy this healthy sheet pan chicken recipe as much as my family does. Give it a try and let me know how it turns out!",
+    "seo": {
+        "primary_keyword": "sheet pan chicken recipes healthy",
+        "secondary_keywords": [
+            "healthy sheet pan chicken",
+            "easy chicken sheet pan meals",
+            "how to make sheet pan chicken",
+            "best healthy sheet pan chicken recipe",
+            "easy sheet pan chicken dinner"
+        ],
+        "internal_links": [
+            {
+                "text": "easy weeknight chicken dinners",
+                "anchor": "easy-weeknight-chicken-dinners"
+            }
+        ],
+        "focus_keyword_density": "1.2%",
+        "reading_level": "8th grade",
+        "word_count_total": "approximately 5200 words"
+    },
+    "category_id": 12,
+    "generation_metadata": {
+        "source": "auto-pipeline",
+        "generated": "2026-04-28 14:19:26",
+        "title_seed": "Sheet Pan Chicken Recipes Healthy Recipe"
+    },
+    "author_id": "author_001",
+    "id": "post_1777385966_725",
+    "slug": "sheet-pan-chicken-recipes-healthy-recipe-thats-perfect-for-busy-nights",
+    "uniqueSlug": "sheet-pan-chicken-recipes-healthy-recipe-thats-perfect-for-busy-nights",
+    "isOnline": true,
+    "images": [
+        {
+            "fileName": "sheet-pan-chicken-recipes-healthy-recipe-thats-perfect-for-busy-nights_pinrecipes_image_1.png",
+            "filePath": "posts\/sheet-pan-chicken-recipes-healthy-recipe-thats-perfect-for-busy-nights\/images\/sheet-pan-chicken-recipes-healthy-recipe-thats-perfect-for-busy-nights_pinrecipes_image_1.png",
+            "relativePath": "sheet-pan-chicken-recipes-healthy-recipe-thats-perfect-for-busy-nights\/images\/sheet-pan-chicken-recipes-healthy-recipe-thats-perfect-for-busy-nights_pinrecipes_image_1.png",
+            "originalUrl": "openai-generated",
+            "order": 1,
+            "type": "main"
+        },
+        {
+            "fileName": "sheet-pan-chicken-recipes-healthy-recipe-thats-perfect-for-busy-nights_pinrecipes_image_2.png",
+            "filePath": "posts\/sheet-pan-chicken-recipes-healthy-recipe-thats-perfect-for-busy-nights\/images\/sheet-pan-chicken-recipes-healthy-recipe-thats-perfect-for-busy-nights_pinrecipes_image_2.png",
+            "relativePath": "sheet-pan-chicken-recipes-healthy-recipe-thats-perfect-for-busy-nights\/images\/sheet-pan-chicken-recipes-healthy-recipe-thats-perfect-for-busy-nights_pinrecipes_image_2.png",
+            "originalUrl": "openai-generated",
+            "order": 2,
+            "type": "main"
+        },
+        {
+            "fileName": "sheet-pan-chicken-recipes-healthy-recipe-thats-perfect-for-busy-nights_pinrecipes_image_3.png",
+            "filePath": "posts\/sheet-pan-chicken-recipes-healthy-recipe-thats-perfect-for-busy-nights\/images\/sheet-pan-chicken-recipes-healthy-recipe-thats-perfect-for-busy-nights_pinrecipes_image_3.png",
+            "relativePath": "sheet-pan-chicken-recipes-healthy-recipe-thats-perfect-for-busy-nights\/images\/sheet-pan-chicken-recipes-healthy-recipe-thats-perfect-for-busy-nights_pinrecipes_image_3.png",
+            "originalUrl": "openai-generated",
+            "order": 3,
+            "type": "main"
+        },
+        {
+            "fileName": "sheet-pan-chicken-recipes-healthy-recipe-thats-perfect-for-busy-nights_demo_image_5.webp",
+            "filePath": "posts\/sheet-pan-chicken-recipes-healthy-recipe-thats-perfect-for-busy-nights\/images\/sheet-pan-chicken-recipes-healthy-recipe-thats-perfect-for-busy-nights_demo_image_5.webp",
+            "relativePath": "sheet-pan-chicken-recipes-healthy-recipe-thats-perfect-for-busy-nights\/images\/sheet-pan-chicken-recipes-healthy-recipe-thats-perfect-for-busy-nights_demo_image_5.webp",
+            "originalUrl": "http:\/\/79.143.187.192\/sites-moad\/demo\/posts\/sheet-pan-chicken-recipes-healthy-recipe-thats-perfect-for-busy-nights\/images\/sheet-pan-chicken-recipes-healthy-recipe-thats-perfect-for-busy-nights_demo_image_5.webp",
+            "type": "template"
+        },
+        {
+            "fileName": "sheet-pan-chicken-recipes-healthy-recipe-thats-perfect-for-busy-nights_demo_image_4.webp",
+            "filePath": "posts\/sheet-pan-chicken-recipes-healthy-recipe-thats-perfect-for-busy-nights\/images\/sheet-pan-chicken-recipes-healthy-recipe-thats-perfect-for-busy-nights_demo_image_4.webp",
+            "relativePath": "sheet-pan-chicken-recipes-healthy-recipe-thats-perfect-for-busy-nights\/images\/sheet-pan-chicken-recipes-healthy-recipe-thats-perfect-for-busy-nights_demo_image_4.webp",
+            "originalUrl": "http:\/\/79.143.187.192\/sites-moad\/demo\/posts\/sheet-pan-chicken-recipes-healthy-recipe-thats-perfect-for-busy-nights\/images\/sheet-pan-chicken-recipes-healthy-recipe-thats-perfect-for-busy-nights_demo_image_4.webp",
+            "type": "template"
+        },
+        {
+            "fileName": "sheet-pan-chicken-recipes-healthy-recipe-thats-perfect-for-busy-nights_demo_image_8.webp",
+            "filePath": "posts\/sheet-pan-chicken-recipes-healthy-recipe-thats-perfect-for-busy-nights\/images\/sheet-pan-chicken-recipes-healthy-recipe-thats-perfect-for-busy-nights_demo_image_8.webp",
+            "relativePath": "sheet-pan-chicken-recipes-healthy-recipe-thats-perfect-for-busy-nights\/images\/sheet-pan-chicken-recipes-healthy-recipe-thats-perfect-for-busy-nights_demo_image_8.webp",
+            "originalUrl": "http:\/\/79.143.187.192\/sites-moad\/demo\/posts\/sheet-pan-chicken-recipes-healthy-recipe-thats-perfect-for-busy-nights\/images\/sheet-pan-chicken-recipes-healthy-recipe-thats-perfect-for-busy-nights_demo_image_8.webp",
+            "type": "recipe_card",
+            "no_link": true
+        },
+        {
+            "fileName": "sheet-pan-chicken-recipes-healthy-recipe-thats-perfect-for-busy-nights_demo_image_6.webp",
+            "filePath": "posts\/sheet-pan-chicken-recipes-healthy-recipe-thats-perfect-for-busy-nights\/images\/sheet-pan-chicken-recipes-healthy-recipe-thats-perfect-for-busy-nights_demo_image_6.webp",
+            "relativePath": "sheet-pan-chicken-recipes-healthy-recipe-thats-perfect-for-busy-nights\/images\/sheet-pan-chicken-recipes-healthy-recipe-thats-perfect-for-busy-nights_demo_image_6.webp",
+            "originalUrl": "http:\/\/79.143.187.192\/sites-moad\/demo\/posts\/sheet-pan-chicken-recipes-healthy-recipe-thats-perfect-for-busy-nights\/images\/sheet-pan-chicken-recipes-healthy-recipe-thats-perfect-for-busy-nights_demo_image_6.webp",
+            "type": "template"
+        },
+        {
+            "fileName": "sheet-pan-chicken-recipes-healthy-recipe-thats-perfect-for-busy-nights_demo_image_9.webp",
+            "filePath": "posts\/sheet-pan-chicken-recipes-healthy-recipe-thats-perfect-for-busy-nights\/images\/sheet-pan-chicken-recipes-healthy-recipe-thats-perfect-for-busy-nights_demo_image_9.webp",
+            "relativePath": "sheet-pan-chicken-recipes-healthy-recipe-thats-perfect-for-busy-nights\/images\/sheet-pan-chicken-recipes-healthy-recipe-thats-perfect-for-busy-nights_demo_image_9.webp",
+            "originalUrl": "http:\/\/79.143.187.192\/sites-moad\/demo\/posts\/sheet-pan-chicken-recipes-healthy-recipe-thats-perfect-for-busy-nights\/images\/sheet-pan-chicken-recipes-healthy-recipe-thats-perfect-for-busy-nights_demo_image_9.webp",
+            "type": "overlay_list",
+            "no_link": true
+        },
+        {
+            "fileName": "sheet-pan-chicken-recipes-healthy-recipe-thats-perfect-for-busy-nights_demo_image_7.webp",
+            "filePath": "posts\/sheet-pan-chicken-recipes-healthy-recipe-thats-perfect-for-busy-nights\/images\/sheet-pan-chicken-recipes-healthy-recipe-thats-perfect-for-busy-nights_demo_image_7.webp",
+            "relativePath": "sheet-pan-chicken-recipes-healthy-recipe-thats-perfect-for-busy-nights\/images\/sheet-pan-chicken-recipes-healthy-recipe-thats-perfect-for-busy-nights_demo_image_7.webp",
+            "originalUrl": "http:\/\/79.143.187.192\/sites-moad\/demo\/posts\/sheet-pan-chicken-recipes-healthy-recipe-thats-perfect-for-busy-nights\/images\/sheet-pan-chicken-recipes-healthy-recipe-thats-perfect-for-busy-nights_demo_image_7.webp",
+            "type": "template"
+        },
+        {
+            "fileName": "sheet-pan-chicken-recipes-healthy-recipe-thats-perfect-for-busy-nights_demo_image_7.webp",
+            "filePath": "posts\/sheet-pan-chicken-recipes-healthy-recipe-thats-perfect-for-busy-nights\/images\/sheet-pan-chicken-recipes-healthy-recipe-thats-perfect-for-busy-nights_demo_image_7.webp",
+            "relativePath": "sheet-pan-chicken-recipes-healthy-recipe-thats-perfect-for-busy-nights\/images\/sheet-pan-chicken-recipes-healthy-recipe-thats-perfect-for-busy-nights_demo_image_7.webp",
+            "originalUrl": "http:\/\/79.143.187.192\/sites-moad\/demo\/posts\/sheet-pan-chicken-recipes-healthy-recipe-thats-perfect-for-busy-nights\/images\/sheet-pan-chicken-recipes-healthy-recipe-thats-perfect-for-busy-nights_demo_image_7.webp",
+            "type": "template"
+        },
+        {
+            "fileName": "sheet-pan-chicken-recipes-healthy-recipe-thats-perfect-for-busy-nights_demo_image_8.webp",
+            "filePath": "posts\/sheet-pan-chicken-recipes-healthy-recipe-thats-perfect-for-busy-nights\/images\/sheet-pan-chicken-recipes-healthy-recipe-thats-perfect-for-busy-nights_demo_image_8.webp",
+            "relativePath": "sheet-pan-chicken-recipes-healthy-recipe-thats-perfect-for-busy-nights\/images\/sheet-pan-chicken-recipes-healthy-recipe-thats-perfect-for-busy-nights_demo_image_8.webp",
+            "originalUrl": "http:\/\/79.143.187.192\/sites-moad\/demo\/posts\/sheet-pan-chicken-recipes-healthy-recipe-thats-perfect-for-busy-nights\/images\/sheet-pan-chicken-recipes-healthy-recipe-thats-perfect-for-busy-nights_demo_image_8.webp",
+            "type": "recipe_card",
+            "no_link": true
+        },
+        {
+            "fileName": "sheet-pan-chicken-recipes-healthy-recipe-thats-perfect-for-busy-nights_demo_image_4.webp",
+            "filePath": "posts\/sheet-pan-chicken-recipes-healthy-recipe-thats-perfect-for-busy-nights\/images\/sheet-pan-chicken-recipes-healthy-recipe-thats-perfect-for-busy-nights_demo_image_4.webp",
+            "relativePath": "sheet-pan-chicken-recipes-healthy-recipe-thats-perfect-for-busy-nights\/images\/sheet-pan-chicken-recipes-healthy-recipe-thats-perfect-for-busy-nights_demo_image_4.webp",
+            "originalUrl": "http:\/\/79.143.187.192\/sites-moad\/demo\/posts\/sheet-pan-chicken-recipes-healthy-recipe-thats-perfect-for-busy-nights\/images\/sheet-pan-chicken-recipes-healthy-recipe-thats-perfect-for-busy-nights_demo_image_4.webp",
+            "type": "template"
+        },
+        {
+            "fileName": "sheet-pan-chicken-recipes-healthy-recipe-thats-perfect-for-busy-nights_demo_image_5.webp",
+            "filePath": "posts\/sheet-pan-chicken-recipes-healthy-recipe-thats-perfect-for-busy-nights\/images\/sheet-pan-chicken-recipes-healthy-recipe-thats-perfect-for-busy-nights_demo_image_5.webp",
+            "relativePath": "sheet-pan-chicken-recipes-healthy-recipe-thats-perfect-for-busy-nights\/images\/sheet-pan-chicken-recipes-healthy-recipe-thats-perfect-for-busy-nights_demo_image_5.webp",
+            "originalUrl": "http:\/\/79.143.187.192\/sites-moad\/demo\/posts\/sheet-pan-chicken-recipes-healthy-recipe-thats-perfect-for-busy-nights\/images\/sheet-pan-chicken-recipes-healthy-recipe-thats-perfect-for-busy-nights_demo_image_5.webp",
+            "type": "template"
+        },
+        {
+            "fileName": "sheet-pan-chicken-recipes-healthy-recipe-thats-perfect-for-busy-nights_demo_image_9.webp",
+            "filePath": "posts\/sheet-pan-chicken-recipes-healthy-recipe-thats-perfect-for-busy-nights\/images\/sheet-pan-chicken-recipes-healthy-recipe-thats-perfect-for-busy-nights_demo_image_9.webp",
+            "relativePath": "sheet-pan-chicken-recipes-healthy-recipe-thats-perfect-for-busy-nights\/images\/sheet-pan-chicken-recipes-healthy-recipe-thats-perfect-for-busy-nights_demo_image_9.webp",
+            "originalUrl": "http:\/\/79.143.187.192\/sites-moad\/demo\/posts\/sheet-pan-chicken-recipes-healthy-recipe-thats-perfect-for-busy-nights\/images\/sheet-pan-chicken-recipes-healthy-recipe-thats-perfect-for-busy-nights_demo_image_9.webp",
+            "type": "overlay_list",
+            "no_link": true
+        },
+        {
+            "fileName": "sheet-pan-chicken-recipes-healthy-recipe-thats-perfect-for-busy-nights_demo_image_6.webp",
+            "filePath": "posts\/sheet-pan-chicken-recipes-healthy-recipe-thats-perfect-for-busy-nights\/images\/sheet-pan-chicken-recipes-healthy-recipe-thats-perfect-for-busy-nights_demo_image_6.webp",
+            "relativePath": "sheet-pan-chicken-recipes-healthy-recipe-thats-perfect-for-busy-nights\/images\/sheet-pan-chicken-recipes-healthy-recipe-thats-perfect-for-busy-nights_demo_image_6.webp",
+            "originalUrl": "http:\/\/79.143.187.192\/sites-moad\/demo\/posts\/sheet-pan-chicken-recipes-healthy-recipe-thats-perfect-for-busy-nights\/images\/sheet-pan-chicken-recipes-healthy-recipe-thats-perfect-for-busy-nights_demo_image_6.webp",
+            "type": "template"
+        },
+        {
+            "fileName": "sheet-pan-chicken-recipes-healthy-recipe-thats-perfect-for-busy-nights_demo_image_8.webp",
+            "filePath": "posts\/sheet-pan-chicken-recipes-healthy-recipe-thats-perfect-for-busy-nights\/images\/sheet-pan-chicken-recipes-healthy-recipe-thats-perfect-for-busy-nights_demo_image_8.webp",
+            "relativePath": "sheet-pan-chicken-recipes-healthy-recipe-thats-perfect-for-busy-nights\/images\/sheet-pan-chicken-recipes-healthy-recipe-thats-perfect-for-busy-nights_demo_image_8.webp",
+            "originalUrl": "http:\/\/79.143.187.192\/sites-moad\/demo\/posts\/sheet-pan-chicken-recipes-healthy-recipe-thats-perfect-for-busy-nights\/images\/sheet-pan-chicken-recipes-healthy-recipe-thats-perfect-for-busy-nights_demo_image_8.webp",
+            "type": "recipe_card",
+            "no_link": true
+        },
+        {
+            "fileName": "sheet-pan-chicken-recipes-healthy-recipe-thats-perfect-for-busy-nights_demo_image_4.webp",
+            "filePath": "posts\/sheet-pan-chicken-recipes-healthy-recipe-thats-perfect-for-busy-nights\/images\/sheet-pan-chicken-recipes-healthy-recipe-thats-perfect-for-busy-nights_demo_image_4.webp",
+            "relativePath": "sheet-pan-chicken-recipes-healthy-recipe-thats-perfect-for-busy-nights\/images\/sheet-pan-chicken-recipes-healthy-recipe-thats-perfect-for-busy-nights_demo_image_4.webp",
+            "originalUrl": "http:\/\/79.143.187.192\/sites-moad\/demo\/posts\/sheet-pan-chicken-recipes-healthy-recipe-thats-perfect-for-busy-nights\/images\/sheet-pan-chicken-recipes-healthy-recipe-thats-perfect-for-busy-nights_demo_image_4.webp",
+            "type": "template"
+        },
+        {
+            "fileName": "sheet-pan-chicken-recipes-healthy-recipe-thats-perfect-for-busy-nights_demo_image_5.webp",
+            "filePath": "posts\/sheet-pan-chicken-recipes-healthy-recipe-thats-perfect-for-busy-nights\/images\/sheet-pan-chicken-recipes-healthy-recipe-thats-perfect-for-busy-nights_demo_image_5.webp",
+            "relativePath": "sheet-pan-chicken-recipes-healthy-recipe-thats-perfect-for-busy-nights\/images\/sheet-pan-chicken-recipes-healthy-recipe-thats-perfect-for-busy-nights_demo_image_5.webp",
+            "originalUrl": "http:\/\/79.143.187.192\/sites-moad\/demo\/posts\/sheet-pan-chicken-recipes-healthy-recipe-thats-perfect-for-busy-nights\/images\/sheet-pan-chicken-recipes-healthy-recipe-thats-perfect-for-busy-nights_demo_image_5.webp",
+            "type": "template"
+        },
+        {
+            "fileName": "sheet-pan-chicken-recipes-healthy-recipe-thats-perfect-for-busy-nights_demo_image_9.webp",
+            "filePath": "posts\/sheet-pan-chicken-recipes-healthy-recipe-thats-perfect-for-busy-nights\/images\/sheet-pan-chicken-recipes-healthy-recipe-thats-perfect-for-busy-nights_demo_image_9.webp",
+            "relativePath": "sheet-pan-chicken-recipes-healthy-recipe-thats-perfect-for-busy-nights\/images\/sheet-pan-chicken-recipes-healthy-recipe-thats-perfect-for-busy-nights_demo_image_9.webp",
+            "originalUrl": "http:\/\/79.143.187.192\/sites-moad\/demo\/posts\/sheet-pan-chicken-recipes-healthy-recipe-thats-perfect-for-busy-nights\/images\/sheet-pan-chicken-recipes-healthy-recipe-thats-perfect-for-busy-nights_demo_image_9.webp",
+            "type": "overlay_list",
+            "no_link": true
+        },
+        {
+            "fileName": "sheet-pan-chicken-recipes-healthy-recipe-thats-perfect-for-busy-nights_demo_image_7.webp",
+            "filePath": "posts\/sheet-pan-chicken-recipes-healthy-recipe-thats-perfect-for-busy-nights\/images\/sheet-pan-chicken-recipes-healthy-recipe-thats-perfect-for-busy-nights_demo_image_7.webp",
+            "relativePath": "sheet-pan-chicken-recipes-healthy-recipe-thats-perfect-for-busy-nights\/images\/sheet-pan-chicken-recipes-healthy-recipe-thats-perfect-for-busy-nights_demo_image_7.webp",
+            "originalUrl": "http:\/\/79.143.187.192\/sites-moad\/demo\/posts\/sheet-pan-chicken-recipes-healthy-recipe-thats-perfect-for-busy-nights\/images\/sheet-pan-chicken-recipes-healthy-recipe-thats-perfect-for-busy-nights_demo_image_7.webp",
+            "type": "template"
+        },
+        {
+            "fileName": "sheet-pan-chicken-recipes-healthy-recipe-thats-perfect-for-busy-nights_demo_image_6.webp",
+            "filePath": "posts\/sheet-pan-chicken-recipes-healthy-recipe-thats-perfect-for-busy-nights\/images\/sheet-pan-chicken-recipes-healthy-recipe-thats-perfect-for-busy-nights_demo_image_6.webp",
+            "relativePath": "sheet-pan-chicken-recipes-healthy-recipe-thats-perfect-for-busy-nights\/images\/sheet-pan-chicken-recipes-healthy-recipe-thats-perfect-for-busy-nights_demo_image_6.webp",
+            "originalUrl": "http:\/\/79.143.187.192\/sites-moad\/demo\/posts\/sheet-pan-chicken-recipes-healthy-recipe-thats-perfect-for-busy-nights\/images\/sheet-pan-chicken-recipes-healthy-recipe-thats-perfect-for-busy-nights_demo_image_6.webp",
+            "type": "template"
+        },
+        {
+            "fileName": "sheet-pan-chicken-recipes-healthy-recipe-thats-perfect-for-busy-nights_demo_image_9.webp",
+            "filePath": "posts\/sheet-pan-chicken-recipes-healthy-recipe-thats-perfect-for-busy-nights\/images\/sheet-pan-chicken-recipes-healthy-recipe-thats-perfect-for-busy-nights_demo_image_9.webp",
+            "relativePath": "sheet-pan-chicken-recipes-healthy-recipe-thats-perfect-for-busy-nights\/images\/sheet-pan-chicken-recipes-healthy-recipe-thats-perfect-for-busy-nights_demo_image_9.webp",
+            "originalUrl": "http:\/\/79.143.187.192\/sites-moad\/demo\/posts\/sheet-pan-chicken-recipes-healthy-recipe-thats-perfect-for-busy-nights\/images\/sheet-pan-chicken-recipes-healthy-recipe-thats-perfect-for-busy-nights_demo_image_9.webp",
+            "type": "overlay_list",
+            "no_link": true
+        },
+        {
+            "fileName": "sheet-pan-chicken-recipes-healthy-recipe-thats-perfect-for-busy-nights_demo_image_7.webp",
+            "filePath": "posts\/sheet-pan-chicken-recipes-healthy-recipe-thats-perfect-for-busy-nights\/images\/sheet-pan-chicken-recipes-healthy-recipe-thats-perfect-for-busy-nights_demo_image_7.webp",
+            "relativePath": "sheet-pan-chicken-recipes-healthy-recipe-thats-perfect-for-busy-nights\/images\/sheet-pan-chicken-recipes-healthy-recipe-thats-perfect-for-busy-nights_demo_image_7.webp",
+            "originalUrl": "http:\/\/79.143.187.192\/sites-moad\/demo\/posts\/sheet-pan-chicken-recipes-healthy-recipe-thats-perfect-for-busy-nights\/images\/sheet-pan-chicken-recipes-healthy-recipe-thats-perfect-for-busy-nights_demo_image_7.webp",
+            "type": "template"
+        },
+        {
+            "fileName": "sheet-pan-chicken-recipes-healthy-recipe-thats-perfect-for-busy-nights_demo_image_6.webp",
+            "filePath": "posts\/sheet-pan-chicken-recipes-healthy-recipe-thats-perfect-for-busy-nights\/images\/sheet-pan-chicken-recipes-healthy-recipe-thats-perfect-for-busy-nights_demo_image_6.webp",
+            "relativePath": "sheet-pan-chicken-recipes-healthy-recipe-thats-perfect-for-busy-nights\/images\/sheet-pan-chicken-recipes-healthy-recipe-thats-perfect-for-busy-nights_demo_image_6.webp",
+            "originalUrl": "http:\/\/79.143.187.192\/sites-moad\/demo\/posts\/sheet-pan-chicken-recipes-healthy-recipe-thats-perfect-for-busy-nights\/images\/sheet-pan-chicken-recipes-healthy-recipe-thats-perfect-for-busy-nights_demo_image_6.webp",
+            "type": "template"
+        },
+        {
+            "fileName": "sheet-pan-chicken-recipes-healthy-recipe-thats-perfect-for-busy-nights_demo_image_8.webp",
+            "filePath": "posts\/sheet-pan-chicken-recipes-healthy-recipe-thats-perfect-for-busy-nights\/images\/sheet-pan-chicken-recipes-healthy-recipe-thats-perfect-for-busy-nights_demo_image_8.webp",
+            "relativePath": "sheet-pan-chicken-recipes-healthy-recipe-thats-perfect-for-busy-nights\/images\/sheet-pan-chicken-recipes-healthy-recipe-thats-perfect-for-busy-nights_demo_image_8.webp",
+            "originalUrl": "http:\/\/79.143.187.192\/sites-moad\/demo\/posts\/sheet-pan-chicken-recipes-healthy-recipe-thats-perfect-for-busy-nights\/images\/sheet-pan-chicken-recipes-healthy-recipe-thats-perfect-for-busy-nights_demo_image_8.webp",
+            "type": "recipe_card",
+            "no_link": true
+        },
+        {
+            "fileName": "sheet-pan-chicken-recipes-healthy-recipe-thats-perfect-for-busy-nights_demo_image_5.webp",
+            "filePath": "posts\/sheet-pan-chicken-recipes-healthy-recipe-thats-perfect-for-busy-nights\/images\/sheet-pan-chicken-recipes-healthy-recipe-thats-perfect-for-busy-nights_demo_image_5.webp",
+            "relativePath": "sheet-pan-chicken-recipes-healthy-recipe-thats-perfect-for-busy-nights\/images\/sheet-pan-chicken-recipes-healthy-recipe-thats-perfect-for-busy-nights_demo_image_5.webp",
+            "originalUrl": "http:\/\/79.143.187.192\/sites-moad\/demo\/posts\/sheet-pan-chicken-recipes-healthy-recipe-thats-perfect-for-busy-nights\/images\/sheet-pan-chicken-recipes-healthy-recipe-thats-perfect-for-busy-nights_demo_image_5.webp",
+            "type": "template"
+        },
+        {
+            "fileName": "sheet-pan-chicken-recipes-healthy-recipe-thats-perfect-for-busy-nights_demo_image_4.webp",
+            "filePath": "posts\/sheet-pan-chicken-recipes-healthy-recipe-thats-perfect-for-busy-nights\/images\/sheet-pan-chicken-recipes-healthy-recipe-thats-perfect-for-busy-nights_demo_image_4.webp",
+            "relativePath": "sheet-pan-chicken-recipes-healthy-recipe-thats-perfect-for-busy-nights\/images\/sheet-pan-chicken-recipes-healthy-recipe-thats-perfect-for-busy-nights_demo_image_4.webp",
+            "originalUrl": "http:\/\/79.143.187.192\/sites-moad\/demo\/posts\/sheet-pan-chicken-recipes-healthy-recipe-thats-perfect-for-busy-nights\/images\/sheet-pan-chicken-recipes-healthy-recipe-thats-perfect-for-busy-nights_demo_image_4.webp",
+            "type": "template"
+        }
+    ],
+    "image": "sheet-pan-chicken-recipes-healthy-recipe-thats-perfect-for-busy-nights_pinrecipes_image_1.png",
+    "image_path": "posts\/sheet-pan-chicken-recipes-healthy-recipe-thats-perfect-for-busy-nights\/images\/sheet-pan-chicken-recipes-healthy-recipe-thats-perfect-for-busy-nights_pinrecipes_image_1.png",
+    "image_dir": "sheet-pan-chicken-recipes-healthy-recipe-thats-perfect-for-busy-nights\/images",
+    "generated_from_text": true,
+    "has_rich_structure": true,
+    "createdAt": "2026-04-28T22:22:34+00:00",
+    "updatedAt": "2026-04-28T22:22:34+00:00"
+}
