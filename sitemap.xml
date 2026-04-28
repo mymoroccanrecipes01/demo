@@ -2,19 +2,55 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>http://www.myrecipes.com/base.html?page=home</loc>
-    <lastmod>2026-04-27</lastmod>
+    <lastmod>2026-04-28</lastmod>
     <changefreq>weekly</changefreq>
     <priority>1.0</priority>
   </url>
   <url>
     <loc>http://www.myrecipes.com/base.html?page=posts</loc>
-    <lastmod>2026-04-27</lastmod>
+    <lastmod>2026-04-28</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.9</priority>
   </url>
   <url>
+    <loc>http://www.myrecipes.com/base.html?page=post-detail&amp;best-sheet-pan-dessert-recipes-recipe-easy-crowd-pleasing-treats</loc>
+    <lastmod>2026-04-28</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>http://www.myrecipes.com/base.html?page=post-detail&amp;classic-banana-bread-that-feels-like-home-in-every-slice</loc>
-    <lastmod>2026-04-27</lastmod>
+    <lastmod>2026-04-28</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>http://www.myrecipes.com/base.html?page=post-detail&amp;easy-sheet-pan-dessert-recipes-for-a-crowd-recipe-that-everyone-will-love</loc>
+    <lastmod>2026-04-28</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>http://www.myrecipes.com/base.html?page=post-detail&amp;full-sheet-pan-dessert-recipes-recipe-perfect-for-sharing-and-easy-prep</loc>
+    <lastmod>2026-04-28</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>http://www.myrecipes.com/base.html?page=post-detail&amp;healthy-sheet-pan-dessert-recipes-recipe-easy-delicious-guilt-free-treats</loc>
+    <lastmod>2026-04-28</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>http://www.myrecipes.com/base.html?page=post-detail&amp;quarter-sheet-pan-dessert-recipes-recipe-easy-crowd-pleaser-treats</loc>
+    <lastmod>2026-04-28</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>http://www.myrecipes.com/base.html?page=post-detail&amp;simple-and-flavorful-sheet-pan-chicken-recipes-recipe-for-easy-dinners</loc>
+    <lastmod>2026-04-28</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
