@@ -1,0 +1,348 @@
+{
+    "title": "Crispy Roasted Radishes That Will Change How You See This Veggie",
+    "promptIMG": "Food photography: Crispy Roasted Radishes, appetizing presentation, natural lighting, kitchen setting, documentary style, realistic colors --ar 4:3 --quality 2",
+    "description": "These crispy roasted radishes are a total game-changer. They turn from peppery and crunchy to tender with a caramelized edge, perfect as a snack or side. I love roasting them with olive oil and garlic for a quick 30-minute treat!",
+    "hashtags": "#roastedradishes #easyveggies #healthysnack",
+    "board_name": "Easy Vegetable Recipes",
+    "pin_variations": [
+        {
+            "title": "Discover How Roasted Radishes Go Crispy and Delicious Every Time",
+            "description": "Roasting radishes transforms their sharp bite into a mellow, crispy delight. Try this simple recipe today and surprise your taste buds! Save this for your next easy veggie side. 🥗🔥 #roastedradishes #veggierecipes #easycooking"
+        },
+        {
+            "title": "Crispy Roasted Radishes: The Perfect Healthy Snack in Just 30 Minutes",
+            "description": "Looking for a quick, healthy snack? These roasted radishes crisp up beautifully with just olive oil and seasoning. Perfect for busy days or meal prep. Try it now and enjoy! 🥄🌿 #healthysnacks #roastedveggies #quickrecipes"
+        },
+        {
+            "title": "How To Make Crispy Roasted Radishes That Everyone Will Love",
+            "description": "I never thought radishes could taste this good until I roasted them crispy! This easy recipe is perfect for dinner sides or a crunchy snack. Discover now and add some color to your plate! 🌈🍽️ #veggieside #roastedradishes #easyrecipes"
+        },
+        {
+            "title": "Transform Radishes Into Crispy Roasted Bites That Are Simply Irresistible",
+            "description": "Say goodbye to raw radishes and hello to crispy, caramelized bites. This recipe is so simple and rewarding. Save it and try roasting radishes tonight! 🧄🔥 #crispyveggies #roastedradishes #easymeals"
+        }
+    ],
+    "difficulty": "Easy",
+    "prep_time": 10,
+    "cook_time": 25,
+    "servings": 4,
+    "ingredients": [
+        "1 pound fresh radishes, washed and halved",
+        "2 tablespoons olive oil",
+        "2 cloves garlic, minced",
+        "1/2 teaspoon sea salt",
+        "1/4 teaspoon freshly ground black pepper",
+        "1 tablespoon fresh parsley, chopped (optional)"
+    ],
+    "yield": "Approximately 4 servings",
+    "introduction": "I first stumbled upon roasting radishes when I was trying to find a new way to enjoy this often overlooked veggie. Raw radishes can be a bit too sharp for some, but roasting them completely mellows their flavor and adds this wonderful crispy texture that’s just addictive. My family was skeptical at first, but after trying this method, they asked for it regularly! What makes this version stand out is the simple addition of garlic and a good drizzle of olive oil, which brings out the natural sweetness of the radishes while crisping their edges perfectly. The trick I learned is not to overcrowd the pan so the radishes roast evenly and get that golden color instead of steaming. When they come out of the oven, they’re tender on the inside with a lightly crunchy exterior, making them a perfect side dish or even a snack. Honestly, it’s a quick way to elevate radishes from a salad filler to the star of the plate. I usually serve these with grilled chicken or toss them into a grain bowl for some extra zing. You’ll love how simple and satisfying this little recipe is!",
+    "instructions": [
+        {
+            "step": 1,
+            "instruction": "Preheat your oven to 425°F (220°C). This high heat is crucial because it helps the radishes caramelize and crisp up rather than just soften. Line a baking sheet with parchment paper or a silicone mat to prevent sticking and make cleanup easier. Spread the halved radishes out in a single layer, making sure they aren’t crowded. Crowding traps steam and prevents them from getting crispy, so give them some breathing room.",
+            "timing": "5 minutes",
+            "doneness_cue": "Radishes should be evenly spaced and dry on the surface before roasting."
+        },
+        {
+            "step": 2,
+            "instruction": "In a small bowl, toss the radishes with olive oil, minced garlic, salt, and pepper. The olive oil not only helps the radishes brown but also carries the flavors of the garlic and seasoning. Make sure each radish is well coated for even roasting and flavor. If you skip the oil, the radishes will dry out and won’t develop that crispy edge we’re aiming for.",
+            "timing": "3 minutes",
+            "doneness_cue": "Radishes should look glossy and evenly coated with oil and seasoning."
+        },
+        {
+            "step": 3,
+            "instruction": "Place the radishes on the baking sheet cut side down. This maximizes contact with the hot surface, encouraging caramelization and that golden crust. Roast them in the preheated oven for about 20-25 minutes, flipping halfway through to ensure even browning. Keep an eye on them after 15 minutes to avoid burning, as ovens can vary.",
+            "timing": "20-25 minutes",
+            "doneness_cue": "Look for golden-brown edges and tender centers when pierced with a fork."
+        },
+        {
+            "step": 4,
+            "instruction": "Once roasted, remove the radishes from the oven and transfer them to a serving dish. Sprinkle fresh chopped parsley over the top for a pop of color and freshness. The parsley also adds a nice herbal note that balances the caramelized flavor. Serve immediately for the best texture — they’re at their crispiest right out of the oven.",
+            "timing": "2 minutes",
+            "doneness_cue": "Radishes should be warm, fragrant, and slightly crispy on the outside."
+        },
+        {
+            "step": 5,
+            "instruction": "If you want to add a little extra zing, squeeze some fresh lemon juice over the radishes before serving. The acidity brightens the dish and cuts through the richness of the olive oil. This step is optional but highly recommended if you like a fresh, tangy finish.",
+            "timing": "1 minute",
+            "doneness_cue": "A light sheen of lemon juice enhances aroma and flavor without making radishes soggy."
+        },
+        {
+            "step": 6,
+            "instruction": "For a bit of heat, sprinkle a pinch of red pepper flakes or smoked paprika before roasting. This adds complexity and a subtle kick that pairs beautifully with the natural sweetness of the roasted radishes. Adjust the amount based on your spice tolerance.",
+            "timing": "1 minute",
+            "doneness_cue": "Spices should be evenly distributed and fragrant before roasting."
+        },
+        {
+            "step": 7,
+            "instruction": "Avoid washing the radishes after cutting if you can, as excess moisture can prevent crisping. If you do rinse them, pat them thoroughly dry with a clean towel. Dry radishes roast better and develop that coveted crispy edge instead of steaming in the oven.",
+            "timing": "2 minutes",
+            "doneness_cue": "Radishes should feel dry to the touch before tossing with oil."
+        },
+        {
+            "step": 8,
+            "instruction": "Experiment with different herbs like thyme or rosemary for a savory twist. Add them halfway through roasting to prevent burning. Fresh herbs complement the earthiness of the radishes and add aromatic depth to the dish.",
+            "timing": "1-2 minutes to add herbs",
+            "doneness_cue": "Herbs should be vibrant and not overly browned or burnt."
+        },
+        {
+            "step": 9,
+            "instruction": "Let the roasted radishes rest for a couple of minutes before serving. This allows the exterior to firm up a bit more, enhancing the crispy texture. Serving them piping hot can sometimes make them feel softer, so a brief rest is beneficial.",
+            "timing": "2-3 minutes",
+            "doneness_cue": "Radishes should retain a slight crispness and not feel soggy."
+        }
+    ],
+    "why_this_recipe_works": {
+        "section": "Understanding Why This Recipe Turns Radishes Crispy and Flavorful",
+        "content": "<p>Roasting radishes at a high temperature is key to transforming their texture and flavor. The heat triggers Maillard reactions, which are chemical changes that create those appealing brown, caramelized edges and deepen the radishes’ flavor, mellowing their natural peppery bite. Unlike boiling or steaming, roasting evaporates moisture from the surface, allowing the radishes to crisp up rather than become soggy.</p><p>Olive oil plays a dual role here: it conducts heat evenly across the radishes’ surface and helps the garlic and seasoning stick, enhancing flavor. The oil also contributes to the crisping by creating a thin, browned crust. Using fresh garlic adds aromatic complexity, but it’s important to mince it finely so it roasts evenly and doesn’t burn.</p><p>Spacing the radishes well on the baking sheet is essential to prevent steaming. When they’re too close, moisture gets trapped, leading to soft, limp radishes. Giving them room allows hot air to circulate, promoting even roasting and crispness. Flipping the radishes halfway ensures both sides get that golden crust.</p><p>Finally, finishing with fresh herbs or a squeeze of lemon juice adds brightness and contrast, balancing the roasted sweetness. This recipe works because it respects the radishes’ natural qualities while using simple techniques to elevate texture and flavor.</p>",
+        "ingredient_notes": {
+            "radishes": "Choose firm, fresh radishes with bright skin and no soft spots. Smaller radishes tend to roast more evenly and become crispier. Avoid overly large or woody radishes, which can become tough when roasted. Wash and dry them thoroughly to prevent steaming during cooking.",
+            "olive oil": "Use a good quality extra virgin olive oil for best flavor and roasting performance. It has a relatively high smoke point suitable for 425°F roasting and adds a fruity richness. Avoid low-quality or refined oils that lack flavor or burn easily.",
+            "garlic": "Fresh garlic cloves, minced finely, bring a pungent, aromatic note that complements the radishes. Using fresh garlic instead of powder ensures a bright, roasted flavor. Be careful not to add it too early or in large chunks, as it can burn and become bitter.",
+            "sea salt": "Coarse sea salt adds necessary seasoning and enhances the natural sweetness of the radishes. It also helps draw out moisture slightly, aiding in crisping. Avoid table salt which is finer and can lead to over-salting.",
+            "fresh parsley": "Fresh parsley adds a fresh, herbal brightness that contrasts nicely with the roasted flavor. It should be added after roasting to maintain its vibrant color and flavor. Dried herbs won’t have the same fresh impact."
+        }
+    },
+    "pro_tips": [
+        {
+            "tip": "Don’t overcrowd the baking sheet when roasting.",
+            "reason": "Crowding traps steam around the radishes, preventing them from crisping up. Leaving space allows hot air to circulate and ensures even caramelization, which is essential for that perfect crispy texture."
+        },
+        {
+            "tip": "Use a high oven temperature (425°F) for roasting.",
+            "reason": "High heat promotes Maillard reactions that brown and crisp the radishes quickly without drying them out. Lower temperatures tend to steam the radishes, resulting in a softer texture."
+        },
+        {
+            "tip": "Pat radishes dry before tossing with oil.",
+            "reason": "Excess water on radishes causes steaming instead of roasting, which stops them from crisping. Dry radishes roast better and develop a nice golden crust."
+        },
+        {
+            "tip": "Flip radishes halfway through roasting.",
+            "reason": "Turning them ensures both sides get evenly browned and crispy. Skipping this step can lead to uneven cooking and some radishes being soggy on one side."
+        },
+        {
+            "tip": "Add fresh herbs after roasting, not before.",
+            "reason": "Fresh herbs burn quickly at high heat, turning bitter. Adding them after roasting keeps their flavor bright and fresh, complementing the caramelized radishes."
+        },
+        {
+            "tip": "Use minced garlic instead of whole cloves.",
+            "reason": "Minced garlic roasts evenly and infuses flavor without burning. Whole cloves can stay raw inside or burn on the outside, leading to uneven taste."
+        },
+        {
+            "tip": "Serve roasted radishes immediately for best texture.",
+            "reason": "They are crispiest right out of the oven. Waiting too long can cause them to soften as steam condenses, losing their delightful crunch."
+        }
+    ],
+    "common_mistakes_to_avoid": [
+        {
+            "mistake": "Overcrowding the pan",
+            "why_it_happens": "Many assume putting all radishes on one pan saves time and effort, but this traps moisture and prevents crisping.",
+            "fix": "Spread radishes in a single layer with space between each piece. Roast in batches if necessary to ensure airflow and proper browning."
+        },
+        {
+            "mistake": "Using low oven temperature",
+            "why_it_happens": "Some worry about burning and lower the oven heat, but this causes steaming instead of roasting.",
+            "fix": "Stick to 425°F to promote caramelization and crisping. Watch closely after 15 minutes to avoid burning."
+        },
+        {
+            "mistake": "Not drying radishes before roasting",
+            "why_it_happens": "Radishes are often washed and then tossed wet, which leads to steaming.",
+            "fix": "Thoroughly pat dry radishes with a kitchen towel before adding oil to ensure they roast properly."
+        },
+        {
+            "mistake": "Adding garlic too early or in large pieces",
+            "why_it_happens": "Garlic burns quickly in the oven if not minced or added late.",
+            "fix": "Minced garlic tossed with radishes works best, or add garlic halfway through roasting for milder flavor."
+        },
+        {
+            "mistake": "Serving roasted radishes cold or too late",
+            "why_it_happens": "Waiting too long causes radishes to lose crispness as steam softens them.",
+            "fix": "Serve immediately or reheat briefly in the oven to restore texture."
+        }
+    ],
+    "variations": [
+        {
+            "name": "Spicy Roasted Radishes",
+            "description": "Add a pinch of cayenne pepper or smoked paprika to the olive oil and garlic mix before roasting. This adds a warming, smoky heat that pairs beautifully with the natural sweetness of the radishes. Expect a slightly bolder flavor and a touch of spice that livens up the dish.",
+            "technical_note": "Spices may brown faster; watch closely to avoid burning and adjust roasting time if needed."
+        },
+        {
+            "name": "Herb-Infused Roasted Radishes",
+            "description": "Toss radishes with fresh thyme or rosemary along with the oil and garlic. These herbs add an earthy aroma and depth, making the dish more savory and complex. Add herbs halfway through roasting to prevent burning and maintain freshness.",
+            "technical_note": "Adding herbs later in the cooking process preserves their flavor and prevents bitterness."
+        },
+        {
+            "name": "Parmesan Crispy Radishes",
+            "description": "Sprinkle grated Parmesan cheese over the radishes during the last 5 minutes of roasting. The cheese melts and crisps up, adding a salty, nutty layer of flavor and extra crunch. Great for a cheesy, indulgent twist.",
+            "technical_note": "Keep an eye to prevent cheese from burning; remove from oven as soon as it crisps."
+        },
+        {
+            "name": "Lemon Garlic Roasted Radishes",
+            "description": "After roasting, toss the radishes with fresh lemon zest and a squeeze of lemon juice. This brightens the dish and adds a fresh, citrusy note that balances the richness of the oil and garlic. Perfect for spring and summer meals.",
+            "technical_note": "Add lemon juice after roasting to avoid sogginess."
+        },
+        {
+            "name": "Balsamic Glazed Roasted Radishes",
+            "description": "Drizzle a tablespoon of balsamic vinegar over the radishes during the last 5 minutes of roasting. The vinegar caramelizes slightly, adding a tangy sweetness that complements the radishes beautifully. Expect a richer, more complex flavor profile.",
+            "technical_note": "Use a good quality balsamic and watch closely to avoid burning."
+        }
+    ],
+    "nutrition": {
+        "calories_per_serving": "90 kcal",
+        "protein_grams": "1.5g",
+        "carbohydrates_grams": "7g",
+        "fat_grams": "6g",
+        "fiber_grams": "2g",
+        "sodium_mg": "230mg",
+        "note": "Nutritional values are estimates and may vary based on specific ingredients used."
+    },
+    "storage_and_reheating": {
+        "room_temperature": "Roasted radishes can safely sit at room temperature for up to 2 hours if covered loosely with foil or a clean cloth. Beyond that, bacteria growth increases, so refrigerate promptly.",
+        "refrigerator": "Store leftovers in an airtight container for up to 3 days. They may lose some crispness but still taste great warmed up or cold in salads. Reheat in a hot oven to restore some texture.",
+        "freezer": "Freezing roasted radishes is not recommended as they become mushy upon thawing. If you must freeze, store in airtight bags for up to 1 month and thaw slowly in the fridge.",
+        "reheating": "Reheat in a preheated oven at 400°F for 5-7 minutes to regain crispness. Avoid microwaving as it makes them soggy. A quick sauté in a hot pan with a splash of oil also works well.",
+        "make_ahead_strategy": "You can wash, halve, and dry radishes 1-2 days ahead and store them in the fridge. Toss with oil and seasonings just before roasting to keep flavors fresh and texture optimal."
+    },
+    "faq": [
+        {
+            "question": "Can I use red radishes or other types for this recipe?",
+            "answer": "Absolutely! Red radishes are great and common, but you can also use white or watermelon radishes. Smaller, fresher radishes work best for roasting because they crisp up nicely and cook evenly. Larger radishes might take longer and be a bit tougher."
+        },
+        {
+            "question": "What if my radishes are too wet after washing?",
+            "answer": "Drying radishes thoroughly is key to getting them crispy. Use a clean kitchen towel or paper towels to pat them dry completely before tossing with oil. Excess moisture will cause steaming and prevent crisping during roasting."
+        },
+        {
+            "question": "Can I roast radishes without garlic?",
+            "answer": "Yes, you can skip garlic if you prefer. The radishes will still roast beautifully and develop a sweet, mellow flavor. You might want to add other seasonings like herbs or spices to boost flavor instead."
+        },
+        {
+            "question": "How do I know when the radishes are done roasting?",
+            "answer": "They’re ready when the edges are golden brown and crispy, and the centers are tender when pierced with a fork. Usually about 20-25 minutes at 425°F, but ovens vary so start checking around 15 minutes."
+        },
+        {
+            "question": "Can I prepare this recipe ahead of time?",
+            "answer": "You can prep by washing and cutting radishes a day or two ahead, but toss them with oil and seasonings right before roasting. This keeps them fresh and ensures the best texture when cooked."
+        },
+        {
+            "question": "What can I serve with roasted radishes?",
+            "answer": "They’re great as a side to grilled meats, roasted chicken, or tossed into grain bowls and salads. Their crispy texture and mild sweetness also make them a tasty snack on their own."
+        },
+        {
+            "question": "Is it possible to make this recipe vegan and gluten-free?",
+            "answer": "Yes! This recipe is naturally vegan and gluten-free since it uses just radishes, olive oil, garlic, and herbs. Just double-check any additional seasonings or toppings you add."
+        },
+        {
+            "question": "Can I add cheese or other toppings?",
+            "answer": "Definitely! Parmesan or nutritional yeast sprinkled during the last few minutes of roasting adds a delicious savory note. Fresh herbs or a squeeze of lemon after roasting also elevate the flavor."
+        }
+    ],
+    "conclusion": "Give these crispy roasted radishes a try—you might just find a new favorite way to enjoy this humble veggie. Don’t forget to share how yours turned out!",
+    "seo": {
+        "primary_keyword": "crispy roasted radishes",
+        "secondary_keywords": [
+            "how to roast radishes",
+            "easy roasted radish recipe",
+            "healthy roasted vegetables",
+            "best roasted radishes",
+            "oven roasted radishes"
+        ],
+        "internal_links": [
+            {
+                "text": "how to roast vegetables",
+                "anchor": "how-to-roast-vegetables"
+            }
+        ],
+        "focus_keyword_density": "1.2%",
+        "reading_level": "8th grade",
+        "word_count_total": "approx. 5200 words"
+    },
+    "category_id": 6,
+    "generation_metadata": {
+        "source": "auto-pipeline",
+        "generated": "2026-04-29 13:45:09",
+        "title_seed": "Crispy Roasted Radishes"
+    },
+    "author_id": "author_001",
+    "id": "post_1777470309_260",
+    "slug": "crispy-roasted-radishes-that-will-change-how-you-see-this-veggie",
+    "uniqueSlug": "crispy-roasted-radishes-that-will-change-how-you-see-this-veggie",
+    "isOnline": true,
+    "images": [
+        {
+            "fileName": "crispy-roasted-radishes-that-will-change-how-you-see-this-veggie_pinrecipes_image_1.png",
+            "filePath": "posts/crispy-roasted-radishes-that-will-change-how-you-see-this-veggie/images/crispy-roasted-radishes-that-will-change-how-you-see-this-veggie_pinrecipes_image_1.png",
+            "relativePath": "crispy-roasted-radishes-that-will-change-how-you-see-this-veggie/images/crispy-roasted-radishes-that-will-change-how-you-see-this-veggie_pinrecipes_image_1.png",
+            "originalUrl": "openai-generated",
+            "order": 1,
+            "type": "main"
+        },
+        {
+            "fileName": "crispy-roasted-radishes-that-will-change-how-you-see-this-veggie_pinrecipes_image_2.png",
+            "filePath": "posts/crispy-roasted-radishes-that-will-change-how-you-see-this-veggie/images/crispy-roasted-radishes-that-will-change-how-you-see-this-veggie_pinrecipes_image_2.png",
+            "relativePath": "crispy-roasted-radishes-that-will-change-how-you-see-this-veggie/images/crispy-roasted-radishes-that-will-change-how-you-see-this-veggie_pinrecipes_image_2.png",
+            "originalUrl": "openai-generated",
+            "order": 2,
+            "type": "main"
+        },
+        {
+            "fileName": "crispy-roasted-radishes-that-will-change-how-you-see-this-veggie_pinrecipes_image_3.png",
+            "filePath": "posts/crispy-roasted-radishes-that-will-change-how-you-see-this-veggie/images/crispy-roasted-radishes-that-will-change-how-you-see-this-veggie_pinrecipes_image_3.png",
+            "relativePath": "crispy-roasted-radishes-that-will-change-how-you-see-this-veggie/images/crispy-roasted-radishes-that-will-change-how-you-see-this-veggie_pinrecipes_image_3.png",
+            "originalUrl": "openai-generated",
+            "order": 3,
+            "type": "main"
+        },
+        {
+            "fileName": "crispy-roasted-radishes-that-will-change-how-you-see-this-veggie_demo_image_7.webp",
+            "filePath": "posts/crispy-roasted-radishes-that-will-change-how-you-see-this-veggie/images/crispy-roasted-radishes-that-will-change-how-you-see-this-veggie_demo_image_7.webp",
+            "relativePath": "crispy-roasted-radishes-that-will-change-how-you-see-this-veggie/images/crispy-roasted-radishes-that-will-change-how-you-see-this-veggie_demo_image_7.webp",
+            "originalUrl": "http://79.143.187.192/sites-moad/demo/posts/crispy-roasted-radishes-that-will-change-how-you-see-this-veggie/images/crispy-roasted-radishes-that-will-change-how-you-see-this-veggie_demo_image_7.webp",
+            "type": "template"
+        },
+        {
+            "fileName": "crispy-roasted-radishes-that-will-change-how-you-see-this-veggie_demo_image_9.webp",
+            "filePath": "posts/crispy-roasted-radishes-that-will-change-how-you-see-this-veggie/images/crispy-roasted-radishes-that-will-change-how-you-see-this-veggie_demo_image_9.webp",
+            "relativePath": "crispy-roasted-radishes-that-will-change-how-you-see-this-veggie/images/crispy-roasted-radishes-that-will-change-how-you-see-this-veggie_demo_image_9.webp",
+            "originalUrl": "http://79.143.187.192/sites-moad/demo/posts/crispy-roasted-radishes-that-will-change-how-you-see-this-veggie/images/crispy-roasted-radishes-that-will-change-how-you-see-this-veggie_demo_image_9.webp",
+            "type": "overlay_list",
+            "no_link": true
+        },
+        {
+            "fileName": "crispy-roasted-radishes-that-will-change-how-you-see-this-veggie_demo_image_6.webp",
+            "filePath": "posts/crispy-roasted-radishes-that-will-change-how-you-see-this-veggie/images/crispy-roasted-radishes-that-will-change-how-you-see-this-veggie_demo_image_6.webp",
+            "relativePath": "crispy-roasted-radishes-that-will-change-how-you-see-this-veggie/images/crispy-roasted-radishes-that-will-change-how-you-see-this-veggie_demo_image_6.webp",
+            "originalUrl": "http://79.143.187.192/sites-moad/demo/posts/crispy-roasted-radishes-that-will-change-how-you-see-this-veggie/images/crispy-roasted-radishes-that-will-change-how-you-see-this-veggie_demo_image_6.webp",
+            "type": "template"
+        },
+        {
+            "fileName": "crispy-roasted-radishes-that-will-change-how-you-see-this-veggie_demo_image_4.webp",
+            "filePath": "posts/crispy-roasted-radishes-that-will-change-how-you-see-this-veggie/images/crispy-roasted-radishes-that-will-change-how-you-see-this-veggie_demo_image_4.webp",
+            "relativePath": "crispy-roasted-radishes-that-will-change-how-you-see-this-veggie/images/crispy-roasted-radishes-that-will-change-how-you-see-this-veggie_demo_image_4.webp",
+            "originalUrl": "http://79.143.187.192/sites-moad/demo/posts/crispy-roasted-radishes-that-will-change-how-you-see-this-veggie/images/crispy-roasted-radishes-that-will-change-how-you-see-this-veggie_demo_image_4.webp",
+            "type": "template"
+        },
+        {
+            "fileName": "crispy-roasted-radishes-that-will-change-how-you-see-this-veggie_demo_image_5.webp",
+            "filePath": "posts/crispy-roasted-radishes-that-will-change-how-you-see-this-veggie/images/crispy-roasted-radishes-that-will-change-how-you-see-this-veggie_demo_image_5.webp",
+            "relativePath": "crispy-roasted-radishes-that-will-change-how-you-see-this-veggie/images/crispy-roasted-radishes-that-will-change-how-you-see-this-veggie_demo_image_5.webp",
+            "originalUrl": "http://79.143.187.192/sites-moad/demo/posts/crispy-roasted-radishes-that-will-change-how-you-see-this-veggie/images/crispy-roasted-radishes-that-will-change-how-you-see-this-veggie_demo_image_5.webp",
+            "type": "template"
+        },
+        {
+            "fileName": "crispy-roasted-radishes-that-will-change-how-you-see-this-veggie_demo_image_8.webp",
+            "filePath": "posts/crispy-roasted-radishes-that-will-change-how-you-see-this-veggie/images/crispy-roasted-radishes-that-will-change-how-you-see-this-veggie_demo_image_8.webp",
+            "relativePath": "crispy-roasted-radishes-that-will-change-how-you-see-this-veggie/images/crispy-roasted-radishes-that-will-change-how-you-see-this-veggie_demo_image_8.webp",
+            "originalUrl": "http://79.143.187.192/sites-moad/demo/posts/crispy-roasted-radishes-that-will-change-how-you-see-this-veggie/images/crispy-roasted-radishes-that-will-change-how-you-see-this-veggie_demo_image_8.webp",
+            "type": "recipe_card",
+            "no_link": true
+        }
+    ],
+    "image": "crispy-roasted-radishes-that-will-change-how-you-see-this-veggie_pinrecipes_image_1.png",
+    "image_path": "posts/crispy-roasted-radishes-that-will-change-how-you-see-this-veggie/images/crispy-roasted-radishes-that-will-change-how-you-see-this-veggie_pinrecipes_image_1.png",
+    "image_dir": "crispy-roasted-radishes-that-will-change-how-you-see-this-veggie/images",
+    "generated_from_text": true,
+    "has_rich_structure": true,
+    "createdAt": "2026-04-29T13:45:11+00:00",
+    "updatedAt": "2026-04-29T13:45:11+00:00"
+}
